@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: blue;
+    background-color: black;
+}
+
+.ibagens{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+}
+
+#copy{
+    color: aliceblue;
+}
+
+h2{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a:hover{
+    color: black;
+    background-color: aliceblue;
+}
